@@ -1,0 +1,6 @@
+{
+  "name": "FitFlow",
+  "description": "AI-powered adaptive fitness companion with smart Daily Flow workouts, camera nutrition logging, and private accountability circles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

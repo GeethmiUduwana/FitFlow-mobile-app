@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FitFlow</string>
+    <string name="app_tagline">Adaptive Fitness &amp; Community</string>
+    <string name="nav_dashboard">Daily Flow</string>
+    <string name="nav_workouts">Workouts</string>
+    <string name="nav_nutrition">Nutrition</string>
+    <string name="nav_community">Circles</string>
+    <string name="nav_lab">Lab 06</string>
+</resources>
